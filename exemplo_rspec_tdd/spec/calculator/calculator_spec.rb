@@ -17,7 +17,5 @@ describe Calculator, "Sobre a Calculadora" do
             expect(result).to eq(-15)
         end
 
-        xit 'ignoring test' do
-        end
     end
 end 
