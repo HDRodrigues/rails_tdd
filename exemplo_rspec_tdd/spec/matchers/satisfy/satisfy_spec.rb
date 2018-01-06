@@ -5,4 +5,4 @@ describe 'Satisfy' do
         x % 3 == 0
     end
   }
-end
+end 
