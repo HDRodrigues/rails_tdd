@@ -15,7 +15,26 @@
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 
 require_relative "../helpers/helper"
+
 RSpec.configure do |config|
+
+  # config.before(:suite) do |config|
+  #   puts ">>>>>>>> ANTES de Toda a suite de testes"
+  # end
+
+  # config.after(:suite) do |config|
+  #   puts ">>>>>>>> DEPOIS de Toda a suite de testes"
+  # end
+
+  # config.before(:all) do |config|
+  #   puts ">>>>>>>> ANTES de todos os testes"
+  # end
+
+  # config.after(:all) do |config|
+  #   puts ">>>>>>>> DEPOIS de todos os testes"
+  # end
+
+
   #Helper methods
   config.include Helper
 
