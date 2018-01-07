@@ -1,0 +1,32 @@
+[2018-01-07 10:46:18.215] [exthost1] [info] extension host started
+[2018-01-07 10:46:18.229] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:46:18.229] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-01-07 10:46:18.293] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:46:18.293] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-01-07 10:46:18.350] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:46:18.350] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-01-07 10:46:18.358] [exthost1] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:46:18.358] [exthost1] [info] ExtensionService#loadCommonJSModule /home/helton/.vscode/extensions/CoenraadS.bracket-pair-colorizer-0.10.14/out/src/extension
+[2018-01-07 10:46:18.366] [exthost1] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:46:18.366] [exthost1] [info] ExtensionService#loadCommonJSModule /home/helton/.vscode/extensions/oderwat.indent-rainbow-0.7.2/out/extension
+[2018-01-07 10:46:18.393] [exthost1] [info] eager extensions activated
+[2018-01-07 10:46:34.513] [exthost1] [info] extension host started
+[2018-01-07 10:46:34.522] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:46:34.522] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-01-07 10:46:34.556] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:46:34.556] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-01-07 10:46:34.600] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:46:34.600] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-01-07 10:46:34.607] [exthost1] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:46:34.607] [exthost1] [info] ExtensionService#loadCommonJSModule /home/helton/.vscode/extensions/CoenraadS.bracket-pair-colorizer-0.10.14/out/src/extension
+[2018-01-07 10:46:34.614] [exthost1] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:46:34.614] [exthost1] [info] ExtensionService#loadCommonJSModule /home/helton/.vscode/extensions/oderwat.indent-rainbow-0.7.2/out/extension
+[2018-01-07 10:46:34.616] [exthost1] [info] eager extensions activated
+[2018-01-07 10:46:50.109] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-01-07 10:46:50.109] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/out/extension
+[2018-01-07 10:46:50.577] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-01-07 10:46:50.577] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/out/extension
+[2018-01-07 10:46:50.639] [exthost1] [info] ExtensionService#_doActivateExtension vscode.javascript {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-01-07 10:46:50.639] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/javascript/out/javascriptMain
+[2018-01-07 10:46:50.888] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-01-07 10:46:50.888] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json/client/out/jsonMain
