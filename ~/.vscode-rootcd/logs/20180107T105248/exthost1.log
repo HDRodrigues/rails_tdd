@@ -1,0 +1,12 @@
+[2018-01-07 10:52:52.134] [exthost1] [info] extension host started
+[2018-01-07 10:52:52.144] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:52:52.144] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-01-07 10:52:52.181] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:52:52.181] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-01-07 10:52:52.239] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:52:52.239] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-01-07 10:52:52.246] [exthost1] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:52:52.246] [exthost1] [info] ExtensionService#loadCommonJSModule /home/helton/.vscode/extensions/CoenraadS.bracket-pair-colorizer-0.10.14/out/src/extension
+[2018-01-07 10:52:52.254] [exthost1] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2018-01-07 10:52:52.254] [exthost1] [info] ExtensionService#loadCommonJSModule /home/helton/.vscode/extensions/oderwat.indent-rainbow-0.7.2/out/extension
+[2018-01-07 10:52:52.255] [exthost1] [info] eager extensions activated
