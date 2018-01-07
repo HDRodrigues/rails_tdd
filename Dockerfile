@@ -3,7 +3,7 @@ LABEL mantainer="Helton Rodrigues"
 
 RUN apt-get update
 
-RUN apt-get install -y openssh-server
+RUN apt-get install -y openssh-server nodejs
 
 RUN mkdir /var/run/sshd
 
