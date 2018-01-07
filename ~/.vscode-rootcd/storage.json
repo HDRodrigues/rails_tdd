@@ -440,5 +440,19 @@
         }
     },
     "theme": "vs-dark vscode-theme-defaults-themes-dark_plus-json",
-    "themeBackground": "#1e1e1e"
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderPath": "/home/helton/Documents/curso_rspec",
+            "backupPath": "/home/helton/Documents/curso_rspec/rails_tdd/~/.vscode-rootcd/Backups/5af23a5bb76bab90982a8ea839a3b9d9",
+            "uiState": {
+                "mode": 1,
+                "x": 448,
+                "y": 189,
+                "width": 1024,
+                "height": 768
+            }
+        }
+    }
 }
