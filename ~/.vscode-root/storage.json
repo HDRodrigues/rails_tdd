@@ -11,6 +11,11 @@
             "label": "Ctrl+Shift+T",
             "isNative": true
         },
+        "workbench.action.openRecent": {
+            "id": "workbench.action.openRecent",
+            "label": "Ctrl+R",
+            "isNative": true
+        },
         "workbench.action.files.save": {
             "id": "workbench.action.files.save",
             "label": "Ctrl+S",
@@ -435,5 +440,19 @@
             "/home/helton/Documents/curso_rspec/rails_tdd"
         ],
         "files": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderPath": "/home/helton/Documents/curso_rspec/rails_tdd",
+            "backupPath": "/home/helton/Documents/curso_rspec/rails_tdd/~/.vscode-root/Backups/f0c6e09e940ea80991189bc17510a73c",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 63,
+                "width": 1920,
+                "height": 1017
+            }
+        }
     }
 }
